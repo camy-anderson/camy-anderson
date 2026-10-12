@@ -1,16 +1,13 @@
-<h1 align="center">Hi 👋, I'm Camy Anderson (camdy1845) </h1>
+<h1 align="center">Hi 👋, I'm Camy Anderson (camdy1845)</h1>
 
 <h3 align="center">Student • Developer • Open Source Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=camy-anderson&=true&theme=tokyonight
+  <img src="https://github-readme-stats.vercel.app/api?username=camy-anderson&show_icons==tokyonight
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?userrson&theme=tokyonight
-</p>
-
----
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=camy-anderson&theme=tokyonight
 
 ## 🚀 About Me
 
@@ -21,8 +18,7 @@
 - System Design
 - Open Source
 
-⚡ Fun fact:
-I enjoy revisiting old projects and seeing how much my coding style has changed over time.
+⚡ Fun fact: I enjoy revisiting old projects and seeing how much my coding style has changed over time.
 
 ---
 
@@ -60,5 +56,3 @@ https://github.com/camy-anderson/To-do-List
 ## 📊 GitHub Activity
 
 Most of my recent work has focused on learning backend development and experimenting with small utility projects.
-
----
