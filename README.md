@@ -14,20 +14,15 @@
 
 ## 🚀 About Me
 
-```yaml
-name: Camy Anderson
-role: Student Developer
+🔭 Currently learning: Flask, Docker, Linux
 
-currently_learning:
-  - Flask
-  - Docker
-  - Linux
+🌱 Interested in:
+- Web Development
+- System Design
+- Open Source
 
-interests:
-  - Web Development
-  - System Design
-  - Open Source
-```
+⚡ Fun fact:
+I enjoy revisiting old projects and seeing how much my coding style has changed over time.
 
 ---
 
@@ -67,7 +62,3 @@ https://github.com/camy-anderson/To-do-List
 Most of my recent work has focused on learning backend development and experimenting with small utility projects.
 
 ---
-
-## 💡 Fun Fact
-
-I enjoy revisiting old projects and seeing how much my coding style has changed over time.
