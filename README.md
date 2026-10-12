@@ -1,16 +1,73 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Camy Anderson (camdy1845) </h1>
 
-<!--
-**camy-anderson/camy-anderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Student • Developer • Open Source Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=camy-anderson&=true&theme=tokyonight
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?userrson&theme=tokyonight
+</p>
+
+---
+
+## 🚀 About Me
+
+```yaml
+name: Camy Anderson
+role: Student Developer
+
+currently_learning:
+  - Flask
+  - Docker
+  - Linux
+
+interests:
+  - Web Development
+  - System Design
+  - Open Source
+```
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- Flask
+- JavaScript
+- Git
+- Docker
+- Linux
+
+---
+
+## 🎯 2026 Goals
+
+- Build practical full-stack applications
+- Learn container orchestration
+- Contribute to open source projects
+- Improve backend development skills
+
+---
+
+## 📌 Featured Repository
+
+### To-do-List
+
+A simple task management application built as a learning project.
+
+Repository:
+https://github.com/camy-anderson/To-do-List
+
+---
+
+## 📊 GitHub Activity
+
+Most of my recent work has focused on learning backend development and experimenting with small utility projects.
+
+---
+
+## 💡 Fun Fact
+
+I enjoy revisiting old projects and seeing how much my coding style has changed over time.
